@@ -2,7 +2,7 @@
 
 Un Dashboard personnel complet pour gérer sa vie étudiante, ses finances et ses projets. Développé en Python avec Streamlit, hébergé sous Docker.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://gemini.google.com/share/f6b7e566530a)
 
 ## ✨ Fonctionnalités
 
@@ -32,5 +32,6 @@ Le projet contient un Dockerfile optimisé pour CasaOS.
 Importez le dossier.
 
 Mappez le volume /app/data pour conserver vos fichiers Excel.
+(Si vous voulez faire des modification et que votre docker reste à jours rajouter /app/NOM_DU_DOSSIER_OU_DU_FICHIER_QUI_EST_MODIFIÉ)
 
 Créé par lukazgames19
