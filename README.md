@@ -17,3 +17,20 @@ Un Dashboard personnel complet pour gérer sa vie étudiante, ses finances et se
 1. Clonez le repo :
    ```bash
    git clone [https://github.com/lukazgames19/student-life-os.git](https://github.com/lukazgames19/student-life-os.git)
+   
+2. Installez les dépendances :
+   ```bash
+   pip install -r requirements.txt
+
+3. Lancez l'application :
+   ```bash
+   streamlit run app.py
+   
+🐳 Déploiement (Docker / CasaOS)
+Le projet contient un Dockerfile optimisé pour CasaOS.
+
+Importez le dossier.
+
+Mappez le volume /app/data pour conserver vos fichiers Excel.
+
+Créé par lukazgames19
