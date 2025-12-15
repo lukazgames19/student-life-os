@@ -2,7 +2,7 @@
 
 Un Dashboard personnel complet pour gérer sa vie étudiante, ses finances et ses projets. Développé en Python avec Streamlit, hébergé sous Docker.
 
-![Dashboard Preview](https://gemini.google.com/share/f6b7e566530a)
+![Dashboard Preview](dashboard-preview.png)
 
 ## ✨ Fonctionnalités
 
